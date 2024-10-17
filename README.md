@@ -43,5 +43,5 @@ the output of aggregation profile function is a dictionary. for the previous exa
        -1.375 ]}
 ```
 
-feel free to check output consistency with http://bioinf.uab.es/aggrescan/
-for any information about the method refer to the original paper.
+feel free to check output consistency with http://bioinf.uab.es/aggrescan/ .
+For any information about the method and the feature interpretation refer to the original paper.
