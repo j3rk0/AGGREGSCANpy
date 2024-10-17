@@ -42,6 +42,5 @@ the output of aggregation profile function is a dictionary. for the previous exa
        -1.375 ]}
 ```
 
-
-for any information about the method and the implementation see:
-Conchillo-Solé, O., de Groot, N.S., Avilés, F.X. et al. AGGRESCAN: a server for the prediction and evaluation of "hot spots" of aggregation in polypeptides. BMC Bioinformatics 8, 65 (2007). https://doi.org/10.1186/1471-2105-8-65
+feel free to check output consistency with http://bioinf.uab.es/aggrescan/
+for any information about the method refer to the original paper.
