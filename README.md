@@ -5,17 +5,17 @@ python implementation of AGGREGSCAN
 
 # Example usage
 
-'''python
+```python
 from aggregscan import aggregation_profile
 
 sequence = "MMCAATSPGKHQAATSPGKHQNRDEIVFGKHQNRDE"  
 result = aggregation_profile(sequence)
 print(result)
-'''
+```
 
 the output of aggregation profile function is a dictionary. for the previous example the output should be:
 
-'''json
+```json
 {'HST': -0.02, 
 'a3vSA': -0.46927777777777785, 
 'nHS': 1, 
@@ -40,7 +40,7 @@ the output of aggregation profile function is a dictionary. for the previous exa
        -1.3284, -1.4042, -0.7936, -0.2144,  0.3844,  0.6446,  0.7408,
         0.1698, -0.3952, -1.0064, -1.1474, -1.3284, -1.4042, -1.375 ,
        -1.375 ]}
-'''
+```
 
 
 for any information about the method and the implementation see:
