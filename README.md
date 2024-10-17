@@ -1,7 +1,7 @@
 # AGGREGSCANpy
-script compute protein aggregation profile features
+AGGREGSCAN- a script to compute protein aggregation profile features
 
-python implementation of AGGREGSCAN 
+python implementation of  "Conchillo-Solé, O., de Groot, N.S., Avilés, F.X. et al. AGGRESCAN: a server for the prediction and evaluation of "hot spots" of aggregation in polypeptides. BMC Bioinformatics 8, 65 (2007). https://doi.org/10.1186/1471-2105-8-65" 
 
 # Example usage
 
