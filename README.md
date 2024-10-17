@@ -15,7 +15,7 @@ print(result)
 
 the output of aggregation profile function is a dictionary. for the previous example the output should be:
 
-'''
+'''json
 {'HST': -0.02, 
 'a3vSA': -0.46927777777777785, 
 'nHS': 1, 
