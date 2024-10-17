@@ -49,7 +49,7 @@ def identify_hot_spots(a4v, sequence):
 
 
 # Example of aggregating the profile for a sequence
-def aggregate_profile(sequence):
+def aggregation_profile(sequence):
     """Main function to compute the aggregation profile."""
     hst = -0.02 # threshold precomputed from swissprot
     a3v = calculate_a3v(sequence)
